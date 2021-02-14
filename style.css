@@ -1,0 +1,21 @@
+div.sticky {
+  position: sticky;
+  top: 0;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  color: rgba(2, 34, 65, 0.89);
+}
+
+.text {
+  color: rgba(2, 34, 65, 0.89);
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+}
+
+.background {
+  background-color: lightgray;
+}
+
+img {
+  width: 200px;
+}
